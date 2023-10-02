@@ -24,5 +24,6 @@ Crypto is one of the popular investment markets. The project builds a pipeline w
   
 
 ## Dashboard
+[Link Dashboad](https://snapshots.raintank.io/dashboard/snapshot/F09z7iU4jcer2yun2qjO1NWveFG81ep3?orgId=2&refresh=5s)
 ![markdown](image/Dashboard.png)
  

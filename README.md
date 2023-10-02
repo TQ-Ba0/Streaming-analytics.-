@@ -24,4 +24,4 @@ Crypto is one of the popular investment markets. The project builds a pipeline w
   
 
 ## Dashboard
-
+![markdown](image/Dashboard.png)

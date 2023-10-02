@@ -2,7 +2,7 @@
 ## Problem description
 Crypto is one of the popular investment markets. The project builds a pipeline with functions such as getting data, processing, storing and displaying crypto data real time.
 ## About dataset
- - This project use crypto data. Get data from ![Api](api.coincap.io/v2/assets). 
+ - This project use crypto data. Get data from [Api](api.coincap.io/v2/assets). 
  - Data contains information about crypto:
     - Timestamp: data collection time
     - id: unique identifier for asset

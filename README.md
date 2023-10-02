@@ -17,11 +17,11 @@ Crypto is one of the popular investment markets. The project builds a pipeline w
     - changePercent24Hr: the direction and value change in the last 24 hours
     - vwap24Hr: volume Weighted Average Price in the last 24 hours
 ## Technical and data pipeline
-- Kafka
-- Data wareshouse: Clickhouse
-- Visualization: Grafana
-- Workflow orchestration: Airflow
+ - Kafka
+ - Data wareshouse: Clickhouse
+ - Visualization: Grafana
+ - Workflow orchestration: Airflow
   
 
 ## Dashboard
-![image](https://github.com/TQ-Ba0/Streaming-analytics.-/assets/112688157/f54b43e2-f00d-4b93-810f-05fdc9b47e32)
+

@@ -1,12 +1,10 @@
 # Streaming-analytics.
 ## Problem description
-
 Crypto is one of the popular investment markets. The project builds a pipeline with functions such as getting data, processing, storing and displaying crypto data real time.
-
 ## About dataset
  - Data is collected by calling Api. The API returns data as json in real time.
  - Data contains information about crypto:
-    - Timestamp:
+    - Timestamp: data collection time
     - id: unique identifier for asset
     - rank: rank is in ascending order - this number is directly associated with the marketcap whereas the highest marketcap receives rank 1
     - symbol: most common symbol used to identify this asset on an exchange
@@ -19,6 +17,11 @@ Crypto is one of the popular investment markets. The project builds a pipeline w
     - changePercent24Hr: the direction and value change in the last 24 hours
     - vwap24Hr: volume Weighted Average Price in the last 24 hours
 ## Technical and data pipeline
-Data wearhouse
+- Kafka
+- Data wareshouse: Clickhouse
+- Visualization: Grafana
+- Workflow orchestration: Airflow
+  
 
 ## Dashboard
+![image](https://github.com/TQ-Ba0/Streaming-analytics.-/assets/112688157/f54b43e2-f00d-4b93-810f-05fdc9b47e32)

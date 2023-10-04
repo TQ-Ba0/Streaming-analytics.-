@@ -16,6 +16,7 @@ Crypto is one of the popular investment markets. The project builds a pipeline w
     - priceUsd: volume-weighted price based on real-time market data, translated to USD
     - changePercent24Hr: the direction and value change in the last 24 hours
     - vwap24Hr: volume Weighted Average Price in the last 24 hours
+## Main Objective
 ## Technical and data pipeline
  - Programming Language: Python
  - Apache kafka

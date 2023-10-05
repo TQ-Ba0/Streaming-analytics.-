@@ -17,6 +17,10 @@ Crypto is one of the popular investment markets. The project builds a pipeline w
     - changePercent24Hr: the direction and value change in the last 24 hours
     - vwap24Hr: volume Weighted Average Price in the last 24 hours
 ## Main Objective
+ - Get Data from API and  use python send data to kafka topic 
+ - From Kafka, create kafka connect sink to clickhose.
+ - Connect Clickhosue to grafana for creat dashboard
+ - Use Apache Airflow to run the job once every minute.
 ## Technologies and data pipeline
  - Programming Language: Python
  - Apache kafka
